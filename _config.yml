@@ -1,4 +1,4 @@
 auto: true
 exclude: ["README.md"]
-include: []
+include: ["cases"]
 permalink: pretty
