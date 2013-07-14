@@ -1,4 +1,0 @@
-auto: true
-exclude: ["README.md"]
-include: ["cases"]
-permalink: pretty
